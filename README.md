@@ -4,19 +4,20 @@ Configurable grayscale effect for KWin window manager and KDE desktop environmen
 
 # Installation
 
+Either install manual by coping files or use the `kpackagetool6`. It may work with `kpackagetool5` but it is untested.
 
 ## Automated
 
 
-1. [Download](https://github.com/lliurex/kwin-grayscale-effect/archive/refs/heads/master.zip) or Git Pull
-2. Enter the repository directory, for example `cd kwin-grayscale-effect-master`
+1. [Download](https://github.com/lliurex/kwin-grayscale-effect/archive/refs/heads/plasma6.zip) or Git Pull
+2. Enter the repository directory, for example: `cd kwin-grayscale-effect-plasma6`
 3. Install the plugin
 ```{.bash}
 kpackagetool6 --type KWin/Effect --install kwin6_effect_grayscale
 ```
 
 ## Manual
-1. [Download](https://github.com/lliurex/kwin-grayscale-effect/archive/refs/heads/master.zip) or Git Pull
+1. [Download](https://github.com/lliurex/kwin-grayscale-effect/archive/refs/heads/plasma6.zip) or Git Pull
 2. Copy "kwin6_effect_grayscale" folder to "/usr/share/kwin/effects/", using e.g.
 
 ```{.bash}
