@@ -4,7 +4,7 @@ Configurable grayscale effect for KWin window manager and KDE desktop environmen
 
 # Installation
 
-Either install manual by coping files or use the `kpackagetool6`. It may work with `kpackagetool5` but it is untested.
+Either install manual by coping files or use `kpackagetool6`. It may work with `kpackagetool5` but it is untested.
 
 ## Automated
 
